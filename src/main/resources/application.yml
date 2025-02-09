@@ -1,0 +1,11 @@
+spring:
+  application:
+    name:
+      mortgage_expert_bot
+
+
+telegrambots:
+  bots:
+    mortgage_expert_bot:
+      token: ___
+      userName: ___
